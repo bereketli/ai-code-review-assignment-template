@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Bereket Lingerew
-- Approximate time spent: ~45 minutes (review, fixes, and writeup)
+- Approximate time spent: 70 minutes
 
 ---
 
